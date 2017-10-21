@@ -50,7 +50,7 @@ Experiência em desenvolvimento de aplicações desktops Java.
 
    ***Ambiente*** Laravel 5, MySQL, Linux, Git.
 
-* **Iveco Latin America** *Web Developer* __2007 to 04/2015__
+* **Iveco Latin America** *Web Developer* __2007 a 04/2015__
 
     Análise e Desenvolvimento de Sistemas, implantação de novas soluções tecnológicas para automatização de processos e redução de custos.
     Monitoramento e manutenção de servidores.
@@ -62,11 +62,11 @@ Experiência em desenvolvimento de aplicações desktops Java.
 ------
 ### Educação
 
-* **Bacharel em Sistemas de Informação** __2011 to 2014__
+* **Bacharel em Sistemas de Informação** __2011 a 2014__
 
     Faculdade Cenecista
 
-* **Pós Graduação em Arquitetura de Sistemas Distribuidos** __2016 (not concluded)__
+* **Pós Graduação em Arquitetura de Sistemas Distribuidos** __2016 (não concluído)__
 
     PUC MG
 
