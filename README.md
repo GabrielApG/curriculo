@@ -1,7 +1,7 @@
 # Gabriel Aparecido Gonçalves
 ## Back-end Web Developer
 
-> [linkedin.com/in/gabriel-gon%C3%A7alves-45846ba5](https://www.linkedin.com/in/gabriel-gon%C3%A7alves-45846ba5/)
+> [linkedin.com/in/gabriel-goncalves](https://www.linkedin.com/in/gabriel-gon%C3%A7alves-45846ba5/)
 >
 > [gabrielstigma@yahoo.com](mailto:gabrielstigma@yahoo.com)
 >
