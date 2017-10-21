@@ -71,4 +71,4 @@ Experiência em desenvolvimento de aplicações desktops Java.
     PUC MG
 
 ------
-### Inglês técnico
+### Inglês Técnico
