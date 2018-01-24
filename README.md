@@ -1,5 +1,5 @@
 # Gabriel Aparecido Gonçalves
-## Back-end Web Developer
+## Full-Stack Developer
 
 > Linkedin: [linkedin.com/in/gabriel-goncalves](https://www.linkedin.com/in/gabriel-gon%C3%A7alves-45846ba5/)
 >
@@ -21,15 +21,16 @@ Experiência em desenvolvimento de aplicações desktops Java.
 * Boa lógica de programação, Código Limpo
 
 1. PHP *(Laravel 5, Symfony 2, CakePhp)*
-2. SOLID, Código Limpo, Design Patterns
-3. Java *(Java SE, Swing)*
-4. JavaScript
-5. Postgres, MySQL, Oracle Sql, Ibm DB2
-6. Design de Banco de Dados
-7. Linux *(Ubuntu, Amazon Linux)*
-8. Git *(GitFlow)*, Jenkins
-9. CSS *(intermediário)*
-10. TDD e Integração continua
+2. VueJs, Angular
+3. SOLID, Código Limpo, Design Patterns
+4. Java *(Java SE, Swing)*
+5. JavaScript
+6. Postgres, MySQL, Oracle Sql, Ibm DB2
+7. Design de Banco de Dados
+8. Linux *(Ubuntu, Amazon Linux)*
+9. Git *(GitFlow)*, Jenkins
+10. CSS *(intermediário)*
+11. TDD e Integração continua
 
 
 ------
@@ -48,9 +49,9 @@ Experiência em desenvolvimento de aplicações desktops Java.
 
    Metodologias para desenvolvimento de sistemas orientado a objetos e design eficiente de banco de dados.
 
-   Desenvolvimento de arquitetura de dados permitindo a análise de dados direcionada.
+   Desenvolvimento de arquitetura e análise de dados direcionada.
 
-   Testes unitários e implantação continua.
+   Testes unitários e implantação contínua.
    Ambiente Ágil
 
    ***Ambiente*** Laravel 5, CakePhp, MySQL,Oracle, Ibm DB2, Linux, Git.
@@ -76,4 +77,4 @@ Experiência em desenvolvimento de aplicações desktops Java.
     PUC MG
 
 ------
-### Inglês Técnico
+### Inglês Intermediário
